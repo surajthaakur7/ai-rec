@@ -1,0 +1,2 @@
+python = 11.x
+tensorflow = 2.20
