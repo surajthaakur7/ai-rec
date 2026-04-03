@@ -1,1 +1,6 @@
 .venv/
+Ratings.csv
+amzn_rvws.ipynb
+Reviews.csv
+amzn_PR.ipynb
+
