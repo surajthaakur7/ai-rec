@@ -30,18 +30,21 @@ an AI assistant to get product recommendations.
 
 ## 📂 Project Structure
 
+```
+ai-rec/
 ├── Notebooks/
-│   ├── 01_EDA.ipynb                    # Data exploration
-│   ├── 02_collaborative_filtering.ipynb # CF model
-│   ├── 03_content_based.ipynb          # CBF model
-│   ├── 04_hybrid_model.ipynb           # Hybrid model
-│   ├── 05_evaluation.ipynb             # Model comparison
+│   ├── 01_EDA.ipynb
+│   ├── 02_collaborative_filtering.ipynb
+│   ├── 03_content_based.ipynb
+│   ├── 04_hybrid_model.ipynb
+│   └── 05_evaluation.ipynb
 ├── Datasets/
-│   └── amazon_cleaned.csv             # Sampled dataset
-├── app.py                              # Streamlit web app
+│   └── amazon_cleaned.csv
+├── app.py
 ├── requirements.txt
+├── .gitignore
 └── README.md
-
+```
 
 ---
 
