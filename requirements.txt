@@ -1,2 +1,13 @@
-python = 11.x
-tensorflow = 2.20
+pandas
+numpy
+scikit-learn
+streamlit
+google-genai
+python-dotenv
+matplotlib
+seaborn
+ipywidgets
+jupyter
+
+
+pip install -r requirements.txt

@@ -3,4 +3,11 @@ Ratings.csv
 amzn_rvws.ipynb
 Reviews.csv
 amzn_PR.ipynb
+.env
+Rag_mdl.ipynb
+ratings.ipynb
+06_recommender_app.ipynb
+07_recommender_app.ipynb
+Reviews.csv
+
 
