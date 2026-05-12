@@ -8,7 +8,6 @@ Developed as an institute project by a team of 3.
 
 ## 👥 Team
 - Suraj Thakur
-- Sarbjot Singh  
 - Krish Sharma
 
 ---
